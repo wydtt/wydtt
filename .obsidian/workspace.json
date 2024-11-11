@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1a4904929bcb1d26",
+        "id": "cef4155760777c43",
         "type": "tabs",
         "children": [
           {
-            "id": "c3b3b707f2e24ec8",
+            "id": "5c9e9a13d1b7c211",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "wynote/java/javaweb/html+css.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "html+css"
             }
           }
         ]
@@ -73,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 200
   },
   "right": {
     "id": "deaedeb6a35101c4",
@@ -152,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 326.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,6 +169,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b81c050917a3996d",
-  "lastOpenFiles": []
+  "active": "5c9e9a13d1b7c211",
+  "lastOpenFiles": [
+    "wynote/qt/计划/25.11.09.md",
+    "wynote/java/javaweb/html+css.md",
+    "wynote/java/javaweb/html+css",
+    "wynote/java/javaweb",
+    "wynote/java",
+    "未命名",
+    "wynote/qt/1.qt基础/5.3个窗口类的区别.md",
+    "wynote/qt/1.qt基础/4.qmake和cmake的介绍.md",
+    "wynote/qt/1.qt基础/3.qtcreator和vs2019的使用.md",
+    "wynote/software tools/tools.md",
+    "wynote/tft/s5.5/1.强势过度阵容.md",
+    "wynote/欢迎.md",
+    "wynote/qt/1.qt基础/8.实现简单的图片查看软件.md",
+    "wynote/qt/1.qt基础/7.qt架构介绍与学习方法.md",
+    "wynote/qt/1.qt基础/6. vsqt与qtcreator项目相互转化.md",
+    "README.md"
+  ]
 }
