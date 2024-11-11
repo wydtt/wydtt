@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wynote/test/test.md",
+                "file": "test/test.md",
                 "mode": "source",
                 "source": false
               },
@@ -172,7 +172,8 @@
   "active": "518737b4d808bc0e",
   "lastOpenFiles": [
     "wynote/test/test.md",
-    "wynote/test",
-    "未命名"
+    "test/test.md",
+    "test",
+    "wynote/test"
   ]
 }
