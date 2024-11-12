@@ -10,5 +10,5 @@
 ###### javaweb项目结构
 
 根目录代表web项目的根
-![[images/javaweb项目结构动态&静态.png]]
+![[./images/javaweb项目结构动态&静态.png]]
 
