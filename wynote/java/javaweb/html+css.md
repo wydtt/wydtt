@@ -180,3 +180,49 @@ input标签,表单控件标签里功能最丰富的,用于接收用户输入的�
   
 
 ###### 框架标签
+![[框架标签.png]]
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+
+<frameset rows="5%,*,5%">
+	<frame src="top.html"/>
+	<frameset cols="200,*">
+	
+	<frame src="menu.html" noresize>
+	<frame src="welcome.html" name="main"/>
+
+	</frameset>
+	<frame src="foot.html"/>
+</frameset>
+<noframes>
+<body>
+浏览器版本太低
+</body>
+</noframes>
+</html>
+
+```
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+haha
+haha
+<iframe src="register.html">
+</iframe>
+haha
+haha
+</body>
+</html>
+```
