@@ -102,8 +102,54 @@ text/plain
 不对特殊字符编码,适合于表单的属性值为mailto”URL形式,也就是说该方式适用于表单邮件的发送;
 ```
 
+```html
+<body>
+	<h3>用户注册</h3>
+	<form action="#" method="get">
+		帐号：<input type="text" name="username" value="默认值"/><br/>
+		密码：<input type="password" name="pwd" /><br/>
+		性别：
+			<input type="radio" name="gender" checked/>男
+			<input type="radio" name="gender"/>女
+			<input type="radio" name="gender"/>保密<br/>
+		爱好：
+			<input type="checkbox" name="hobby" checked/>Java
+			<input type="checkbox" name="c"/>c
+			<input type="checkbox" name="obj-c"/>obj-c<br/>
+		头像：
+			<input type="file" name="headImg"/><br/>
+		城市：
+			<select name="city" multiple size="4">
+				<option value="gz">广州</option>
+				<option>佛山</option>
+				<option>潮汕</option>
+				<option>深圳</option>
+			</select><br/>
+		简介：
+			<textarea name="intro" rows="5" cols="30">aaa</textarea><br/>
+		<input type="image" value="images/nextpage.png"/>
+		<input type="button" value="普通按钮"/>
+		<input type="submit" value="注册"/>
+		<input type="reset" value=”重置“ />
+	</form>
+</body>
+```
 
-  
+```html
+  html5 表单新特性
+<body>
+<h3>用户注册</h3>
+	<form action="#" method="get">
+		帐号：<input type="text" name="username" required/><br/>
+		邮箱：<input type="email" name="eml" /><br/>
+		生日：<input type="date" name="age" /><br/>
+		手机：<input type="email" name="eml" /><br/>
+		<input type="number" name="keyword" max="10" min="1" placeholder="1-10"/>
+		<input type="reset" value=”重置“ />
+	</form>
+</body>
+
+```
 
 ###### input标签
 ```html
