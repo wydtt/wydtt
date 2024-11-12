@@ -5,8 +5,8 @@
 ![[tomcat常见错误.png]]
 
 ###### tomcat解压版安装&安全配置
-![[tomcat安装&安全配置.png]]
 
+![](images/tomcat安装&安全配置.png)
 ###### javaweb项目结构
 
 根目录代表web项目的根
