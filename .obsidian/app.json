@@ -1,5 +1,6 @@
 {
   "readableLineLength": false,
   "attachmentFolderPath": "./images",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative"
 }
