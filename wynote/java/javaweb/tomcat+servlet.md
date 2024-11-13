@@ -13,6 +13,6 @@
 
 ![](images/javaweb项目结构动态&静态.png)
 
-
+###### eclipse手动搭建纯javaweb项目
 
 
