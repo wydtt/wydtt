@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wynote/java/javaweb/tomcat+http.md",
+                "file": "wynote/java/javaweb/3.servlet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tomcat+http"
+              "title": "3.servlet"
             }
           }
         ],
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 296.5,
+    "collapsed": true
   },
   "right": {
     "id": "deaedeb6a35101c4",
@@ -202,6 +203,12 @@
   },
   "active": "39a6a94357a06d91",
   "lastOpenFiles": [
+    "wynote/java/javaweb/images/servlet第一个程序.png",
+    "wynote/java/javaweb/images/servlet规范&搭建web项目.png",
+    "wynote/java/javaweb/images/servlet目录.png",
+    "wynote/java/javaweb/images/servlet要点.png",
+    "wynote/java/javaweb/3.servlet.md",
+    "wynote/java/javaweb/2.tomcat+http.md",
     "wynote/java/javaweb/images/get和post请求的区别.png",
     "wynote/java/javaweb/images/http-响应消息.png",
     "wynote/java/javaweb/images/http-请求消息.png",
@@ -210,13 +217,8 @@
     "wynote/java/javaweb/images/eclipse手动搭建web项目.png",
     "wynote/java/javaweb/Tomcat-HTTP笔记.xls",
     "conflict-files-obsidian-git.md",
-    "wynote/java/javaweb/tomcat+http.md",
     "wynote/java/javaweb/images/tomcat+serv.png",
-    "wynote/java/javaweb/images/tomcat目录结构.png",
-    "wynote/java/javaweb/html+css.md",
-    "wynote/java/javaweb/images/tomcat安装&安全配置.png",
-    "wynote/java/javaweb/images/javaweb项目结构动态&静态.png",
-    "wynote/java/javaweb/images/tomcat常见错误.png",
+    "wynote/java/javaweb/1.html+css.md",
     "wynote/java/javaweb/tomcat+servlet",
     "wynote/java/javaweb/images",
     "wynote/qt/计划/25.11.09.md",
