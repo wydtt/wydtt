@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wynote/java/javaweb/tomcat+servlet.md",
+                "file": "wynote/java/javaweb/tomcat+http.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tomcat+servlet"
+              "title": "tomcat+http"
             }
           }
         ],
@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.5
+    "width": 200
   },
   "right": {
     "id": "deaedeb6a35101c4",
@@ -187,7 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,23 +200,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b81c050917a3996d",
+  "active": "39a6a94357a06d91",
   "lastOpenFiles": [
+    "wynote/java/javaweb/images/get和post请求的区别.png",
+    "wynote/java/javaweb/images/http-响应消息.png",
+    "wynote/java/javaweb/images/http-请求消息.png",
+    "wynote/java/javaweb/images/tomcat部署web项目.png",
+    "wynote/java/javaweb/images/eclipse-tomcat插件.png",
+    "wynote/java/javaweb/images/eclipse手动搭建web项目.png",
     "wynote/java/javaweb/Tomcat-HTTP笔记.xls",
     "conflict-files-obsidian-git.md",
-    "wynote/java/javaweb/tomcat+servlet.md",
+    "wynote/java/javaweb/tomcat+http.md",
     "wynote/java/javaweb/images/tomcat+serv.png",
     "wynote/java/javaweb/images/tomcat目录结构.png",
     "wynote/java/javaweb/html+css.md",
     "wynote/java/javaweb/images/tomcat安装&安全配置.png",
     "wynote/java/javaweb/images/javaweb项目结构动态&静态.png",
     "wynote/java/javaweb/images/tomcat常见错误.png",
-    "wynote/java/javaweb/images/tomcat+servlet.png",
     "wynote/java/javaweb/tomcat+servlet",
-    "wynote/java/javaweb/images/框架标签.png",
-    "wynote/java/javaweb/images/Pasted image 20241112112414.png",
     "wynote/java/javaweb/images",
-    "Pasted image 20241112111458.png",
     "wynote/qt/计划/25.11.09.md",
     "wynote/java/javaweb/html+css",
     "wynote/java/javaweb",
