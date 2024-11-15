@@ -13,26 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wynote/java/javaweb/tomcat+servlet.md",
+                "file": "wynote/java/javaweb/3.servlet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tomcat+servlet"
+              "title": "3.servlet"
             }
           },
           {
             "id": "7330f00906eacd05",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wynote/java/javaweb/tomcat+servlet.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "tomcat+servlet"
+              "title": "新标签页"
             }
           },
           {
@@ -49,8 +45,7 @@
               "title": "3.servlet"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5,
-    "collapsed": true
+    "width": 296.5
   },
   "right": {
     "id": "deaedeb6a35101c4",
@@ -201,24 +195,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "39a6a94357a06d91",
+  "active": "5c9e9a13d1b7c211",
   "lastOpenFiles": [
+    "wynote/java/javaweb/2.tomcat+http.md",
+    "wynote/java/javaweb/1.html+css.md",
+    "wynote/java/javaweb/3.servlet.md",
+    "wynote/java/javaweb/images/servlet的继承体系1.png",
+    "wynote/java/javaweb/images/servlet获取初始化参数.png",
+    "wynote/java/javaweb/images/servlet的请求流程2.png",
+    "wynote/java/javaweb/images/servlet的请求流程1.png",
+    "wynote/java/javaweb/images/servlet单例类的生命周期.png",
     "wynote/java/javaweb/images/servlet第一个程序.png",
     "wynote/java/javaweb/images/servlet规范&搭建web项目.png",
     "wynote/java/javaweb/images/servlet目录.png",
     "wynote/java/javaweb/images/servlet要点.png",
-    "wynote/java/javaweb/3.servlet.md",
-    "wynote/java/javaweb/2.tomcat+http.md",
     "wynote/java/javaweb/images/get和post请求的区别.png",
-    "wynote/java/javaweb/images/http-响应消息.png",
-    "wynote/java/javaweb/images/http-请求消息.png",
-    "wynote/java/javaweb/images/tomcat部署web项目.png",
-    "wynote/java/javaweb/images/eclipse-tomcat插件.png",
-    "wynote/java/javaweb/images/eclipse手动搭建web项目.png",
     "wynote/java/javaweb/Tomcat-HTTP笔记.xls",
     "conflict-files-obsidian-git.md",
-    "wynote/java/javaweb/images/tomcat+serv.png",
-    "wynote/java/javaweb/1.html+css.md",
     "wynote/java/javaweb/tomcat+servlet",
     "wynote/java/javaweb/images",
     "wynote/qt/计划/25.11.09.md",
