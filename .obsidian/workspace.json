@@ -101,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 337.5
   },
   "right": {
     "id": "deaedeb6a35101c4",
@@ -197,6 +197,10 @@
   },
   "active": "5c9e9a13d1b7c211",
   "lastOpenFiles": [
+    "wynote/java/javaweb/images/httpserveltrequest常用方法.png",
+    "wynote/java/javaweb/images/servlet继承体系和servlet编写.png",
+    "wynote/java/javaweb/images/servlet继承体系3.png",
+    "wynote/java/javaweb/images/servlet继承体系2.png",
     "wynote/java/javaweb/2.tomcat+http.md",
     "wynote/java/javaweb/1.html+css.md",
     "wynote/java/javaweb/3.servlet.md",
@@ -207,9 +211,6 @@
     "wynote/java/javaweb/images/servlet单例类的生命周期.png",
     "wynote/java/javaweb/images/servlet第一个程序.png",
     "wynote/java/javaweb/images/servlet规范&搭建web项目.png",
-    "wynote/java/javaweb/images/servlet目录.png",
-    "wynote/java/javaweb/images/servlet要点.png",
-    "wynote/java/javaweb/images/get和post请求的区别.png",
     "wynote/java/javaweb/Tomcat-HTTP笔记.xls",
     "conflict-files-obsidian-git.md",
     "wynote/java/javaweb/tomcat+servlet",
