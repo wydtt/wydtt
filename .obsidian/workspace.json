@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wynote/manjaro问题记录/laptop鼠标2秒自动冻结.md",
+                "file": "wynote/cpp/teachuself21day/day1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "laptop鼠标2秒自动冻结"
+              "title": "day1"
             }
           },
           {
@@ -101,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 337.5,
+    "collapsed": true
   },
   "right": {
     "id": "deaedeb6a35101c4",
@@ -197,22 +198,28 @@
   },
   "active": "5c9e9a13d1b7c211",
   "lastOpenFiles": [
+    "wynote/cpp/teachuself21day/images/day1-helloworld.png",
+    "wynote/cpp/teachuself21day/images",
+    "wynote/qt/1.qt基础/8.实现简单的图片查看软件.md",
+    "wynote/cpp/teachuself21day/day1.md",
+    "wynote/cpp/teachuself21day",
+    "未命名",
+    "wynote/cpp",
     "wynote/java/javaweb/3.servlet.md",
+    "wynote/java/javaweb/images/httpservletresponse常用方法.png",
+    "wynote/java/javaweb/images/servlet请求中文乱码处理.png",
+    "wynote/java/javaweb/images/注册案例.png",
+    "wynote/java/javaweb/images/Pasted image 20241117141051.png",
+    "wynote/java/javaweb/2.tomcat+http.md",
     "wynote/manjaro问题记录/laptop鼠标2秒自动冻结.md",
     "wynote/manjaro问题记录",
-    "未命名",
     "wynote/java/javaweb/images/httpserveltrequest常用方法.png",
     "wynote/java/javaweb/images/servlet继承体系和servlet编写.png",
     "wynote/java/javaweb/images/servlet继承体系3.png",
     "wynote/java/javaweb/images/servlet继承体系2.png",
-    "wynote/java/javaweb/2.tomcat+http.md",
     "wynote/java/javaweb/1.html+css.md",
     "wynote/java/javaweb/images/servlet的继承体系1.png",
     "wynote/java/javaweb/images/servlet获取初始化参数.png",
-    "wynote/java/javaweb/images/servlet的请求流程2.png",
-    "wynote/java/javaweb/images/servlet的请求流程1.png",
-    "wynote/java/javaweb/images/servlet单例类的生命周期.png",
-    "wynote/java/javaweb/images/servlet第一个程序.png",
     "wynote/java/javaweb/Tomcat-HTTP笔记.xls",
     "conflict-files-obsidian-git.md",
     "wynote/java/javaweb/tomcat+servlet",
@@ -220,14 +227,12 @@
     "wynote/qt/计划/25.11.09.md",
     "wynote/java/javaweb/html+css",
     "wynote/java/javaweb",
-    "wynote/java",
     "wynote/qt/1.qt基础/5.3个窗口类的区别.md",
     "wynote/qt/1.qt基础/4.qmake和cmake的介绍.md",
     "wynote/qt/1.qt基础/3.qtcreator和vs2019的使用.md",
     "wynote/software tools/tools.md",
     "wynote/tft/s5.5/1.强势过度阵容.md",
     "wynote/欢迎.md",
-    "wynote/qt/1.qt基础/8.实现简单的图片查看软件.md",
     "wynote/qt/1.qt基础/7.qt架构介绍与学习方法.md",
     "wynote/qt/1.qt基础/6. vsqt与qtcreator项目相互转化.md",
     "README.md"
