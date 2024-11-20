@@ -42,3 +42,46 @@ char:1
 float:4
 double:8
 ```
+有符号和无符号整数
+此外，所有整数类型都有两种：有符号整数和无符号整数。这里的想法是，有时您需要负数，有时您不需要。没有“无符号”一词的整数（短整数和长整数）被认为是有符号的。有符号整数要么是负数，要么是正数。无符号整数始终为正数。
+
+由于有符号整数和无符号整数的字节数相同，因此无符号整数 中可以存储的最大数字是带符号整数中可以存储的最大正数的两倍。无符号 短整数可以处理从 0 到 65,535 的数字。有符号 短整数表示的数字中有一半是负数，因此有符号 短整数只能表示从 -32,768 到 32,767 的数字。如果这令人困惑，请务必阅读附录 A“运算符优先级”。
+
+**Table 3.1. Variable Types.**
+
+|                       |            |                                 |
+| --------------------- | ---------- | ------------------------------- |
+| **_Type_**            | **_Size_** | **_Values_**                    |
+| unsigned short int    | 2 bytes    | 0 to 65,535                     |
+| short int             | 2 bytes    | -32,768 to 32,767               |
+| unsigned long int     | 4 bytes    | 0 to 4,294,967,295              |
+| long int              | 4 bytes    | -2,147,483,648 to 2,147,483,647 |
+| int (16 bit)          | 2 bytes    | -32,768 to 32,767               |
+| int (32 bit)          | 4 bytes    | -2,147,483,648 to 2,147,483,647 |
+| unsigned int (16 bit) | 2 bytes    | 0 to 65,535                     |
+| unsigned int (32 bit) | 2 bytes    | 0 to 4,294,967,295              |
+| char                  | 1 byte     | 256 character values            |
+| float                 | 4 bytes    | 1.2e-38 to 3.4e38               |
+| double                | 8 bytes    | 2.2e-308 to 1.8e308             |
+变量命名对比
+```cpp
+Example 1
+
+main()
+{
+     unsigned short x;
+     unsigned short y;
+     ULONG z;
+     z = x * y;
+}
+Example 2
+
+main ()
+{
+     unsigned short Width;
+     unsigned short Length;
+     unsigned short Area;
+     Area = Width * Length;
+}
+```
+变量命名规则

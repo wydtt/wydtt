@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wynote/cpp/teachuself21day/images/day3.md",
+                "file": "wynote/cpp/teachuself21day/day3.md",
                 "mode": "source",
                 "source": false
               },
@@ -173,16 +173,16 @@
   },
   "active": "b3822000106d7c7c",
   "lastOpenFiles": [
+    "wynote/cpp/teachuself21day/day2.md",
+    "wynote/cpp/teachuself21day/day1.md",
+    "wynote/cpp/teachuself21day/day3.md",
     "wynote/cpp/teachuself21day/images/images/变量占用字节数.png",
     "wynote/cpp/teachuself21day/images/images/变量示意图.png",
     "wynote/cpp/teachuself21day/images/images",
     "wynote/java/javaweb/3.servlet.md",
-    "wynote/cpp/teachuself21day/images/day3.md",
     "wynote/java/javaweb/images/servlet线程不安全问题.png",
     "wynote/java/javaweb/images/servlet线程安全问题.png",
     "wynote/java/javaweb/images/tomcat启动的时候初始化servlet.png",
-    "wynote/cpp/teachuself21day/day2.md",
-    "wynote/cpp/teachuself21day/day1.md",
     "wynote/manjaro问题记录/laptop鼠标2秒自动冻结.md",
     "wynote/java/javaweb/images/servlet3注解配置.png",
     "wynote/software tools/tools.md",
@@ -202,7 +202,6 @@
     "wynote/cpp/teachuself21day",
     "未命名",
     "wynote/cpp",
-    "wynote/java/javaweb/images/httpservletresponse常用方法.png",
     "wynote/java/javaweb/2.tomcat+http.md",
     "wynote/manjaro问题记录",
     "wynote/java/javaweb/1.html+css.md",
