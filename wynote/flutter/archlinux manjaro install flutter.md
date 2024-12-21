@@ -1,1 +1,2 @@
-yay -Sy flutter
+
+yay -Ss flutter
