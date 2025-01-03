@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wynote/android/刷机/a14/1.md",
+                "file": "wynote/doconfig/grub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1"
+              "title": "grub"
             }
           }
         ]
@@ -173,8 +173,12 @@
   },
   "active": "9a303838a5a7fae7",
   "lastOpenFiles": [
-    "wynote/java/javaweb/3.servlet.md",
+    "wynote/doconfig/rclua.md",
+    "wynote/doconfig/grub.md",
+    "2025-01-03.md",
+    "wynote/doconfig",
     "wynote/android/刷机/a14/1.md",
+    "wynote/java/javaweb/3.servlet.md",
     "wynote/android/刷机/a14",
     "wynote/android/刷机",
     "wynote/android",
@@ -210,14 +214,10 @@
     "wynote/cpp/teachuself21day/day6.md",
     "wynote/java/javase/swing/2.布局网格.md",
     "wynote/java/javase/swing/1.swing的基本窗口.md",
-    "wynote/java/javase/swing",
     "wynote/cpp/teachuself21day/7天知识总结.md",
     "wynote/cpp/teachuself21day/day1.md",
     "wynote/tft/s13.md",
     "wynote/qt/1.qt基础/7.qt架构介绍与学习方法.md",
-    "wynote/qt/1.qt基础/8.实现简单的图片查看软件.md",
-    "wynote/qt/1.qt基础/6. vsqt与qtcreator项目相互转化.md",
-    "wynote/qt/1.qt基础/5.3个窗口类的区别.md",
-    "wynote/qt/1.qt基础/4.qmake和cmake的介绍.md"
+    "wynote/qt/1.qt基础/8.实现简单的图片查看软件.md"
   ]
 }
