@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wynote/doconfig/grub.md",
+                "file": "wynote/android/刷机/a14/1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "grub"
+              "title": "1"
             }
           }
         ]
@@ -173,8 +173,8 @@
   },
   "active": "9a303838a5a7fae7",
   "lastOpenFiles": [
-    "wynote/doconfig/rclua.md",
     "wynote/doconfig/grub.md",
+    "wynote/doconfig/rclua.md",
     "2025-01-03.md",
     "wynote/doconfig",
     "wynote/android/刷机/a14/1.md",
