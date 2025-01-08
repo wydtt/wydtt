@@ -1,4 +1,11 @@
-
+需要先安装jdk 看我的system/manjaro quicksetup
+yay -Ss android-sdk
+yay -Sy android-sdk
+yay -S android-tools
+yay -S android-sdk-platform-tools
+yay -S android-sdk-cmdline-tools-latest
+yay -S android-sdk-build-tools
+yay -S android-platform
 yay -Ss fvm 
 yay -Sy fvm
 fvm releases
@@ -22,3 +29,7 @@ sudo ln -s /usr/bin/google-chrome-stable /usr/bin/google-chrome
 sudo pacman -S clang
 
 sudo pacman -S ninja
+
+yay -Sy cmake
+
+安装插件

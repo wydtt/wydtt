@@ -1,4 +1,4 @@
-slociv@gg ~> cat /etc/default/grub
+ooslociv@gg ~> cat /etc/default/grub
 # GRUB boot loader configuration
 
 GRUB_DEFAULT=saved
