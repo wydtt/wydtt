@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wynote/system/装系统manjarowindows/1.快速配置.md",
+                "file": "wynote/java/javaweb/4.快速创建tomcat idea2024.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.快速配置"
+              "title": "4.快速创建tomcat idea2024"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -173,14 +174,26 @@
   },
   "active": "9a303838a5a7fae7",
   "lastOpenFiles": [
+    "wynote/java/javaweb/2.tomcat+http.md",
+    "wynote/java/javaweb/4.快速创建tomcat idea2024.md",
     "wynote/java/javaweb/day5.md",
+    "wynote/system/manjaro问题记录/时间同步问题.md",
+    "wynote/java/javaweb/1.html+css.md",
     "wynote/java/javaweb/3.servlet.md",
-    "wynote/flutter/archlinux manjaro install flutter.md",
     "wynote/system/装系统manjarowindows/1.快速配置.md",
+    "wynote/tft/s13.md",
+    "wynote/android/刷机/a11.md",
+    "wynote/android/官改优化/atoma15.md",
+    "wynote/android/刷机/a14/MTK.md",
+    "wynote/android/官改优化/miui12.5.7a11.md",
+    "wynote/android/官改优化/atom13v1.md",
+    "2025-01-03.md",
+    "wynote/android/官改优化",
+    "wynote/doconfig/rclua.md",
+    "wynote/flutter/archlinux manjaro install flutter.md",
     "wynote/flutter/flutterbase/5.the anatomy(剖析) of flutter app.md",
     "wynote/flutter/flutterbase/3.what is flutter.md",
     "wynote/flutter/flutterbase/images/widgettree.png",
-    "wynote/android/刷机/a14/MTK.md",
     "wynote/ProgressBook/4.Roomforimprovement.md",
     "wynote/ProgressBook/3.LevelTestBook.md",
     "wynote/ProgressBook/2.ReviewBook.md",
@@ -188,19 +201,14 @@
     "wynote/doconfig/grub.md",
     "wynote/system/装系统manjarowindows",
     "wynote/system",
-    "wynote/doconfig/rclua.md",
-    "2025-01-03.md",
     "wynote/doconfig",
     "wynote/android/刷机/a14",
     "wynote/android/刷机",
     "wynote/android",
-    "wynote/java/javaweb/2.tomcat+http.md",
-    "wynote/java/javaweb/1.html+css.md",
     "wynote/site/网站共享.md",
     "wynote/site",
     "未命名",
     "wynote/flutter/flutterbase/images",
-    "wynote/flutter/flutterbase",
     "wynote/java/javaweb/images/servlet的三大作用域对象.png",
     "wynote/java/javaweb/images/请求包含.png",
     "wynote/java/javaweb/images/url重定向.png",
@@ -211,12 +219,6 @@
     "wynote/java/javaweb/images/day5学习大纲.png",
     "wynote/js/3函数.md",
     "wynote/js/images/script执行流程图.png",
-    "wynote/js/5天揭秘js高级技术-js基础.md",
-    "wynote/cpp/teachuself21day/day9引用.md",
-    "wynote/cpp/teachuself21day/day8指针.md",
-    "wynote/cpp/teachuself21day/day7.md",
-    "wynote/cpp/teachuself21day/day5.md",
-    "wynote/cpp/teachuself21day/day6.md",
-    "wynote/java/javase/swing/2.布局网格.md"
+    "wynote/js/5天揭秘js高级技术-js基础.md"
   ]
 }
